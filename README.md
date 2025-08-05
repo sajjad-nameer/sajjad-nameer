@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sajjad Nameer
+ Hi, I'm Sajjad Nameer
 
  🛡️ **SOC Engineer** | 🐛 **Bug Bounty Hunter** | 🚀 **Security Researcher**
 
